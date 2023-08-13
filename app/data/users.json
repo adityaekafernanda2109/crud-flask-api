@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "_id": 1,
+      "name": "Adit",
+      "email": "adit@gmail.com",
+      "password": 12345678
+    },
+    {
+      "_id": 3,
+      "name": "Nur Ismi Amaliah",
+      "email": "ismi@gmail.com",
+      "password": 123456
+    }
+  ]
+}
