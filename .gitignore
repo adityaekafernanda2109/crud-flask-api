@@ -1,0 +1,6 @@
+migrations/
+app/extensions.py
+app/__pycache__
+app/models/__pycache__
+app/task/__pycache__
+app/user/__pycache__
